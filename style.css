@@ -1,0 +1,826 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* PARTE REBECA */
+.layout1{
+    
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 60px;
+    left: -20px;
+    justify-content: space-between;
+    align-items: flex-end;
+    display: flex;
+    gap: 10px;
+    opacity: 0px;
+}
+
+
+
+
+#carrinho{
+    width: 40px;
+    height: 40px;
+    top: 25px;
+    left: 1131px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
+
+
+button{
+   
+    background-color: #f47c4a;
+    font-size: large;
+    font-family: monospace;
+    width: -50px;
+    max-height: 50%;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    text-align: left;
+}
+
+
+
+
+#f2{
+    flex-direction: column;
+    align-items: end;
+}
+
+
+
+
+.layout2{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+    padding-top: 0%;
+    scroll-padding-top: 10%;
+    text-align: left;
+   
+}
+
+
+
+
+.h1{
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 42.67px;
+    text-align: right;
+   
+}
+
+
+
+
+.h122{
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 42.67px;
+    text-align: right;
+    line-height: 2.0%;
+}
+
+
+
+
+.h2 h3{
+    font-family: Montserrat;
+    font-weight: 600;
+    text-align: right;
+    /* font-size: x-large; */
+    margin-right: 80px;
+    justify-content: space-around;
+}
+
+
+
+
+.h11{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 42.67px;
+}
+
+
+
+
+.textinhos{
+    font-family: Montserrat;
+    display: flex;
+    gap: 25px;
+    right: 40px;
+    left: 40%;
+}
+
+
+
+
+#carrinho{
+    width: 45px;
+    height: 45px;
+    top: 33px;
+    left: 1131px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
+
+
+.bola{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
+
+
+#bolaa{
+margin-left:300px;
+}
+
+
+.textinhos2{
+    display: flex;
+    flex-direction: column;
+    width: -5px;
+    height: -2px;
+    margin: 20px;
+    margin-right: 100px;
+    padding-bottom: 150px;
+    grid-row: 25px;
+}
+
+/* PARTE GABY */
+.textum h1 {
+    
+    color: white;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.57px;
+   text-align: center;
+
+}
+
+.quadradoes {
+
+    display: flex;
+    padding: 50px;
+
+}
+
+.quadradoum {
+
+    display: flex;
+   background-color: white;
+   width: 339px;
+   height: 506px;
+   border-radius: 9px;
+   flex-direction: column;
+   top: 169px;
+   left: 80px;
+   align-items: center;
+
+}
+
+ #imagemdois {
+
+    width: 320px;
+    height: 300px;
+    align-items: center;
+
+}
+
+.textdois{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+    margin-left: 60px;
+}
+
+.textquatro{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+    margin-left: 60px;
+
+}
+
+.textsexto{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+    margin-left: 60px;
+
+}
+
+
+.textdois h2{
+
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+    height: 0px;
+    
+    
+}
+
+.textdois h3 {
+
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: left;
+   
+    
+}
+
+.btn {
+
+    width: 284px;
+    height: 40px;
+    background-color: coral;
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26.82px;
+
+
+}
+
+.quadradoresdois {
+
+    display: flex;
+    padding: 50px;
+
+}
+
+.quadradodois {
+
+    display: flex;
+   background-color: white;
+   width: 339px;
+   height: 506px;
+   border-radius: 9px;
+   flex-direction: column;
+   top: 169px;
+   left: 80px;
+   align-items: center;
+
+}
+
+#imagemtres {
+
+    width: 320px;
+    height: 300px;
+    align-items: center;
+
+}
+
+.textquatro h2{
+
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+    height: 0px;
+   
+    
+      
+}
+
+.textquatro h3{
+
+    
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: left;
+    
+
+}
+
+.btndois {
+
+    width: 284px;
+    height: 40px;
+    background-color: coral;
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26.82px;
+}
+
+.quadradorestres {
+
+    display: flex;
+    padding: 50px;
+
+}
+
+.quadradotres {
+
+    display: flex;
+   background-color: white;
+   width: 339px;
+   height: 506px;
+   border-radius: 9px;
+   flex-direction: column;
+   top: 169px;
+   left: 80px;
+   align-items: center;
+
+}
+
+#imagemquatro {
+
+    width: 320px;
+    height: 300px;
+    align-items: center;
+
+}
+
+.textosextoh2{
+
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+    height: 0px;
+    
+ 
+}
+
+.textsexto h3{
+
+    
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: left;
+    
+    color: black;
+
+}
+
+.btntres {
+
+    width: 284px;
+    height: 40px;
+    background-color: coral;
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;   
+    line-height: 26.82px;
+}
+
+.todos {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+.montserrat-fonte {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* PARTE DE MARIA GEOVANNA */
+
+.montserrat-fonte{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    }
+
+body{
+    height: 631px;
+    background-color: black;
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    .pag3{
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .seminarios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10%;
+    }
+    
+    .seminarios h1{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.57px;
+    text-align: right;
+    margin: 2%;
+    }
+    
+    .seminarios h2{
+    font-size: 1.1rem;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26.82px;
+    text-align: left;
+    }
+    
+    .info{
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 438px;
+    
+    top: 115px;
+    left: 709px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #FE7C45;
+    color: #FFFFFF;
+    border-radius: 9px 9px 9px 9px;
+    margin: 9%;
+    }
+    
+    .info h1{
+    font-size: 2rem ;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.57px;
+    text-align: right;
+    margin: 7%;
+    }
+    
+    .info h2{
+    
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26.82px;
+    text-align: left;
+    margin: 2%;
+    }
+    
+    .info h3{
+    
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+    }
+    
+    .textospag3{
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .tel{
+    width: 100%;
+    display: flex;
+    }
+    
+    .email{
+    width: 100%;
+    display: flex;
+    }
+    
+    .loc{
+    width: 100%;
+    display: flex;
+    }
+    
+    #telimg{
+        width: 44px;
+        height: 46px;
+        top: 232px;
+        left: 768px;
+        gap: 0px;
+        opacity: 0px;
+        margin: 5%;
+        
+    }
+    
+    #emailimg{
+        width: 51px;
+        height: 51px;
+        top: 335px;
+        left: 759px;
+        gap: 0px;
+        opacity: 0px;
+        margin: 5%;
+        
+    }
+    
+    #locimg{
+        width: 49px;
+        height: 49px;
+        top: 425px;
+        left: 765px;
+        gap: 0px;
+        opacity: 0px;
+        margin: 5%;
+        
+    }
+    
+    .btnpag3{
+    width: 213px;
+    height: 50px;
+    top: 360px;
+    left: 198px;
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 9px 9px 9px 9px;
+    opacity: 0px;
+    background-color:#FE7C45;
+    color:#FFFFFF;
+    font-size: 1.5rem;
+    font-family: "Montserrat", sans-serif;
+    margin: 4%;
+    }
+    
+    .textbuton{
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26.82px;
+    }
+
+/* PARTE DE ANDREI FELIPE */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: black;
+}
+
+.montserrat-fonte {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+.section3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 302px;
+}
+
+
+
+.login-andrei{
+    background-color: #272626;
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    padding: 3px 120px;
+    border-radius: 5px;
+    
+    
+}
+
+.minicaixotes{
+    font-family: Montserrat;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+
+}
+
+#borda{
+    font-family: Montserrat;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 26.82px;
+    text-align: left;
+
+}
+
+button{
+    background-color: #FE7C45;
+    border-radius: 9px;
+    width: 125px;
+    padding: 7px;
+    color: white;
+    margin: 2px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    font-family: Montserrat;
+font-size: 19px;
+font-weight: 500;
+line-height: 26.82px;
+
+
+}
+
+.nome{
+    display: flex;
+    flex-direction: row;
+    width: 340px;
+}
+
+.minicaixotes{
+    background-color: white;
+    margin: 10px;
+    border-radius: 9px;
+    width: 100%;
+    padding: 7px;
+    
+    
+}
+
+.outrasinfos{
+     width: 300px ;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+
+::placeholder{
+    color: black;
+}
+
+#mensagem{
+    height: 80px;
+}
+
+#borda{
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.login-andrei h1{
+    color: white;
+    font-size: 25px;
+}
+
+
+.section4{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: center;
+    gap: 1110px;
+    
+}
+
+.linha{
+    width: 85%;
+    background-color: white;
+    height: 1px;
+
+}
+
+.config-linha{
+
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.section4 h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: -5px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#face{
+   width: 40px;
+   height: 40px;
+   margin-right: 40px;
+}
+
+#insta{
+    width: 30px;
+    height: 30px;
+    margin-right: 40px;
+}
+#link{
+    width: 35px;
+    height: 35px;
+    margin-right: 40px;
+}
+
+.divulgacao{
+    display: flex;
+    flex-direction: column;
+    font-size: 3px;
+}
+
+
+
+.final{
+    background-color: white;
+    color: black;
+    margin: 30px;
+    padding: 20px;
+    padding-top: 15px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.final p{
+    margin-top: -2px;
+}
+
+
+
